@@ -63,24 +63,9 @@ function myFunction() {
      })
      
   } 
- 
+ //end
 
   
-
-
-   
- 
-
-
-
-
-
-
-
-
-
-
-
 
 
 }());
