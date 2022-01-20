@@ -80,6 +80,7 @@ span{
 
 .exito{
     animation: exitoso 1s infinite;
+    
 }
 
 @keyframes exitoso {
